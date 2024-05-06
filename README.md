@@ -1,5 +1,5 @@
 # CMPT-361-Ass4
-Rasterizing Lines and Triangles
+Rasterizing Lines and Triangles -- Deeper
 
 1.Triangle Mesh Generation
 
